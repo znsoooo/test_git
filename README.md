@@ -2,6 +2,13 @@
 test_git
 
 # QR Desktop
+Generate a __QR-Code__ is the most simplest thing today.
+Look at `Clipboard` and make QR-Code by __hotkey__ is also not too difficult.
+Many people make this function in __different frameworks__.
+Like someone build it by `electron`, size 30.2 MiB, and I wrote one by `python`, size 14 MiB.
+But wrote it by `C++` is complicated. It will be faster, and smaller, about __280 kB__, and cross-platformed, working well at `Windows XP` and above.
+
+# QR Desktop
 Generate a __QR-Code__ is the most simplest thing today.   
 Look at `Clipboard` and make QR-Code by __hotkey__ is also not too difficult.  
 Many people make this function in __different frameworks__.  
